@@ -1,27 +1,27 @@
 class Solution {
-    public int minimumOperations(int[] a) {
+    public int minimumOperations(int[] nums) {
 
-        int k = 0;
+        int count = 0;
 
-        for (int i = 0; i < a.length; i++) {
-            if (a[i] == 0)
+        for (int i = 0; i < nums.length; i++) {
+
+            if (nums[i] == 0)
                 continue;
 
-            boolean found = false;
+            boolean unique = true;
 
-            for (int j = 0; j < k; j++) {
-                if (a[j] == a[i]) {
-                    found = true;
+            for (int j = 0; j < i; j++) {
+
+                if (nums[i] == nums[j]) {
+                    unique = false;
                     break;
                 }
             }
 
-            if (!found) {
-                a[k] = a[i];
-                k++;
-            }
+            if (unique)
+                count++;
         }
 
-        return k;
+        return count;
     }
 }
