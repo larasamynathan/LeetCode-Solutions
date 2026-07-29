@@ -11,7 +11,7 @@ class Solution {
                 count = 1;
             }
 
-            if (count * 4 > a.length) {
+            if (count  > a.length/4) {
                 return a[i];
             }
         }
