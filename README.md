@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -44,6 +45,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
