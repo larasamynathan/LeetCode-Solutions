@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
@@ -117,6 +119,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
