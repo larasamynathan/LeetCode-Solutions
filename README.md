@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
