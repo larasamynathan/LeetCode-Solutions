@@ -34,6 +34,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
