@@ -1,14 +1,20 @@
+import java.util.HashSet;
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        int count=0;
-        
-        for(int i=0;i<stones.length();i++)
-        {   
-           String stone=String.valueOf(stones.charAt(i));
-        if(jewels.contains(stone))
+        HashSet<Character> set=new HashSet<>();
+        for(int i=0;i<jewels.length();i++)
         {
-            count++;
+            char c=jewels.charAt(i);
+            set.add(c);
         }
+        int count=0;
+        for(int i=0;i<stones.length();i++)
+        {
+            char ch=stones.charAt(i);
+            if(set.contains(ch))
+            {
+                count++;
+            }
         }
      return count;   
     }
