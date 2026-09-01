@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0290-word-pattern) |
