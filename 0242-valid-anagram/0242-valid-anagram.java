@@ -2,16 +2,27 @@
 import java.util.*;
 class Solution {
     public static boolean isAnagram(String s, String t){
-      boolean anagram=true;
-      if(s.length()!=t.length())
-      {
+     Map <Character,Integer> freq=new HashMap<>();
+     if(s.length()!=t.length())
+     {
         return false;
-      }
-      char a[]=s.toCharArray();
-      char b[]=t.toCharArray();
-      Arrays.sort(a);
-      Arrays.sort(b);
-      return Arrays.equals(a,b);
+     }
+     for(char c:s.toCharArray())
+     {
+        freq.put(c,freq.getOrDefault(c,0)+1);
+     }
 
+    for(int i=0;i<t.length();i++)
+    {
+
+        char c=t.charAt(i);
+        if(!freq.containsKey(c) || freq.get(c)==0)
+        {
+            return false;
+        }
+        freq.put(c,freq.get(c)-1);
     }
+    return true;
+    }
+
 }
