@@ -181,4 +181,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
