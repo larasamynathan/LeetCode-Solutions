@@ -105,6 +105,7 @@
 | [0344-reverse-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Stack
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
