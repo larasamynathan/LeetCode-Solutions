@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +87,7 @@
 | [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -107,6 +111,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
