@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -121,6 +124,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Design
 |  |
 | ------- |
@@ -191,4 +196,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
