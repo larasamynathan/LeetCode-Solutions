@@ -38,6 +38,7 @@
 | [1732-find-the-highest-altitude](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3151-special-array-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/3151-special-array-i) |
 ## Math
 |  |
 | ------- |
