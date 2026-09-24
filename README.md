@@ -136,6 +136,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -202,6 +203,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
