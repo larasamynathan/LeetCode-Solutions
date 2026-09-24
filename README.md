@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -64,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
