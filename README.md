@@ -87,6 +87,7 @@
 | [0771-jewels-and-stones](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
