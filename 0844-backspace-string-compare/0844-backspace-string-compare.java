@@ -5,31 +5,33 @@ class Solution {
 
         for(char c:s.toCharArray())
         {
-            if(c=='#')
+            if(c!='#')
             {
-               if(!st.isEmpty())
-               {
-                st.pop();
-               }
+               
+               
+                st.push(c);
+               
             }
             else
             {
-                st.push(c);
+                if(!st.isEmpty())
+                st.pop();
             }
         }
         for(char c:t.toCharArray())
         {
-            if(c=='#')
+            if(c!='#')
             {
-                if(! ts.isEmpty()){
+                
 
                 
-                ts.pop();
-                }
+                ts.push(c);
+                
             }
             else
-            {
-                ts.push(c);
+            {  
+                if(!ts.isEmpty())
+                ts.pop();
             }
         }
        return st.equals(ts);
