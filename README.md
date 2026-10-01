@@ -29,6 +29,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -144,6 +145,7 @@
 | [0155-min-stack](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting
 |  |
