@@ -145,6 +145,7 @@
 | [0496-next-greater-element-i](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -194,6 +195,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
