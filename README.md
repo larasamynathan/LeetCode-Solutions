@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
