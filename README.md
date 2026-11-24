@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -109,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/larasamynathan/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
