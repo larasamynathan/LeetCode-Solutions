@@ -1,29 +1,23 @@
 class Solution {
-    public int maxArea(int[] height) {
-        int maxWater = 0;
-        int left = 0;
-        int right = height.length - 1;
-
-        while (left < right) {
-            // Calculate the area between the two lines
-            int width = right - left;
-            int minHeight = Math.min(height[left], height[right]);
-            int currentWater = width * minHeight;
-
-            // Update maxWater if we found a bigger container
-            maxWater = Math.max(maxWater, currentWater);
-
-            // Move the pointer pointing to the shorter line
-            if (height[left] < height[right]) {
-                left++;
-            } else {
-                right--;
-            }
+    public int maxArea(int[] a) {
+        int l=0;
+        int r=a.length-1;
+        int maxarea=0;
+        while(l < r)
+        {
+          int w=r-l;
+          int h=Math.min(a[l],a[r]);
+          int area=w*h;
+          maxarea=Math.max(maxarea,area);
+          if(a[l]<a[r])
+          {
+            l++;
+          }  
+          else
+          {
+            r--;
+          }
         }
-
-        return maxWater;
+        return maxarea;
     }
-
-    
 }
-        
