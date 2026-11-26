@@ -1,26 +1,28 @@
 class Solution {
-    public boolean isPalindrome(String t) {
-     t=t.toLowerCase();
-        char s[]=t.toCharArray();
+    public boolean isPalindrome(String t)
+    {
+        t=t.toLowerCase();
         int start=0;
-        int end=s.length-1;
+        int end=t.length()-1;
         boolean palindrome=true;
-      
-        while(start<end){
-            while(start<end && ! Character.isLetterOrDigit(s[start]))
+        while(start<end)
+        {
+            while(start<end && ! Character.isLetterOrDigit(t.charAt(start)))
             {
                 start++;
+
             }
-            while(start<end && ! Character.isLetterOrDigit(s[end]))
+            while(start<end && ! Character.isLetterOrDigit(t.charAt(end)))
             {
                 end--;
             }
-            if(s[start]!=s[end]){
-                palindrome=false;
-                break;
+            if(t.charAt(start)!=t.charAt(end))
+            {
+             palindrome=false;
+             break;
             }
-          start++;
-          end--;
+            start++;
+            end--; 
         }
         return palindrome;
     }
